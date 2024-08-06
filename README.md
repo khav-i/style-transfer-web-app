@@ -1,9 +1,15 @@
 # Style-transfer-web-app
 
-Веб-приложение для тестирования в браузере: https://style-transfer-web-app-khavi.streamlit.app/
+[Веб-приложение для тестирования в браузере](https://style-transfer-web-app-khavi.streamlit.app/):
 
 ![alt text](image.png)
 
-## Others
+Есть возможность выставить удовлетворяющее качество инференса по шкале с ползунком.
 
-Модели и статьи Fast Neural Style: https://github.com/jcjohnson/fast-neural-style 
+## Ссылки на источники
+
+* [Обучение моделей](https://github.com/khav-i/nn_works/blob/master/Style%20transfer/README.md)
+
+* [Еще один пример обучения модели переноса стиля](https://github.com/malraharsh/Neural-Style-Transfer/tree/main)
+
+* [Модели и статьи Fast Neural Style](https://github.com/jcjohnson/fast-neural-style)
