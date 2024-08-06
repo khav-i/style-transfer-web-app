@@ -12,4 +12,6 @@
 
 * [Еще один пример обучения модели переноса стиля](https://github.com/malraharsh/Neural-Style-Transfer/tree/main)
 
+* [pyFlaskOpenCV](https://github.com/Reine0017/pyFlaskOpenCV/blob/master/README)
+
 * [Модели и статьи Fast Neural Style](https://github.com/jcjohnson/fast-neural-style)
