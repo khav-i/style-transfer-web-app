@@ -1,5 +1,5 @@
 imutils==0.5.3
-numpy
+numpy==1.26.4
 streamlit~=1.21.0
 #//Pillow==8.3.0
 opencv-python-headless==4.6.0.66
