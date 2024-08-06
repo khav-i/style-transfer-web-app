@@ -1,6 +1,8 @@
 # Style-transfer-web-app
 
-Веб-приложение для тестирования в браузере:
+Веб-приложение для тестирования в браузере: https://style-transfer-web-app-khavi.streamlit.app/
+
+![alt text](image.png)
 
 ## Others
 
